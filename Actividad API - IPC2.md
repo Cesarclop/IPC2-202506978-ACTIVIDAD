@@ -71,9 +71,6 @@ public class NodoElemento
 
 La API se ejecuta con el comando `dotnet run` y queda escuchando en `http://localhost:5223`.
 
-![[Pasted image 20260611182746.png]]
-
-	![[Pasted image 20260611183016.png]]
 ---
 
 ## Parte 3: Verificación y Pruebas
@@ -84,4 +81,3 @@ La API se ejecuta con el comando `dotnet run` y queda escuchando en `http://l
 
 **Resultado esperado:** Código `200 OK` con los dos nodos iniciales.
 
-![[Pasted image 20260611182830.png]]
