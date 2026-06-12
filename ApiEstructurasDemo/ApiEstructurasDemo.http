@@ -1,0 +1,6 @@
+@ApiEstructurasDemo_HostAddress = http://localhost:5223
+
+GET {{ApiEstructurasDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
