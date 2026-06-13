@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AVLSimulationAPI/1.0.0": {
+        "runtime": {
+          "AVLSimulationAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AVLSimulationAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
